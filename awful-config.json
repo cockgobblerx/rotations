@@ -1,3 +1,5 @@
-load = {
-  "project.lua",
+{
+  "load": [
+    "test.lua"
+  ]
 }
